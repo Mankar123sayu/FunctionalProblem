@@ -16,8 +16,11 @@ namespace FunctionalProblem
         // PowerofTwo powerofTwo = new PowerofTwo();
          //powerofTwo.Power();
 
-         HarmonicNumber harmonicNumber = new HarmonicNumber();
-         harmonicNumber.Harmonic();
+        // HarmonicNumber harmonicNumber = new HarmonicNumber();
+        // harmonicNumber.Harmonic();
+
+         Factors factors = new Factors();
+         factors.Calculate();
         }
     }
 }
