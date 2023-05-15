@@ -48,6 +48,7 @@ namespace FunctionalProblem
                 Console.WriteLine($"HeadPercentage: {HeadPercentage}");
                 Console.WriteLine($"TailPercentage: {TailPercentage}");
             }
+
         }
     }
 }

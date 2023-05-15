@@ -7,8 +7,13 @@ namespace FunctionalProblem
         public static void Main(string[] args)
         {
 
-         FlipCoin flipCoin = new FlipCoin();
-          flipCoin.Flip();
+        // FlipCoin calculation = new FlipCoin();
+         //calculation.Flip();
+
+        LeapYear leapYear = new LeapYear();
+        leapYear.Leap();
+
+            
         }
     }
 }
