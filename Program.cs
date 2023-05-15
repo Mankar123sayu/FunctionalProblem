@@ -22,8 +22,11 @@ namespace FunctionalProblem
          //Factors factors = new Factors();
         // factors.Calculate();
 
-          QuotientAndRemainder Remainder = new QuotientAndRemainder();
-          Remainder.Divide();
+         // QuotientAndRemainder Remainder = new QuotientAndRemainder();
+         // Remainder.Divide();
+
+         SwapTwoNumber swapTwoNumber = new SwapTwoNumber();
+         swapTwoNumber.Swap();
         }
     }
 }
