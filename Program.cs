@@ -10,8 +10,11 @@ namespace FunctionalProblem
         // FlipCoin calculation = new FlipCoin();
          //calculation.Flip();
 
-        LeapYear leapYear = new LeapYear();
-        leapYear.Leap();
+        //LeapYear leapYear = new LeapYear();
+        //leapYear.Leap();
+
+         PowerofTwo powerofTwo = new PowerofTwo();
+         powerofTwo.Power();
 
             
         }
