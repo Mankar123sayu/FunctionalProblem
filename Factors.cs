@@ -16,7 +16,7 @@ namespace FunctionalProblem
             for(int i = 1; i <= x; i++)
             {
                 if (x % i == 0)
-                    Console.WriteLine($"{i} is a Factor of {x}");
+                Console.WriteLine($"{i} is a Factor of {x}");
             }
         }
     }

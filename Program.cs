@@ -19,8 +19,11 @@ namespace FunctionalProblem
         // HarmonicNumber harmonicNumber = new HarmonicNumber();
         // harmonicNumber.Harmonic();
 
-         Factors factors = new Factors();
-         factors.Calculate();
+         //Factors factors = new Factors();
+        // factors.Calculate();
+
+          QuotientAndRemainder Remainder = new QuotientAndRemainder();
+          Remainder.Divide();
         }
     }
 }
