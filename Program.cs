@@ -25,8 +25,12 @@ namespace FunctionalProblem
          // QuotientAndRemainder Remainder = new QuotientAndRemainder();
          // Remainder.Divide();
 
-         SwapTwoNumber swapTwoNumber = new SwapTwoNumber();
-         swapTwoNumber.Swap();
+         //SwapTwoNumber swapTwoNumber = new SwapTwoNumber();
+         //swapTwoNumber.Swap();
+
+         OddAndEven oddAndEven = new OddAndEven();
+            oddAndEven.Checking();
+
         }
     }
 }
