@@ -28,8 +28,11 @@ namespace FunctionalProblem
          //SwapTwoNumber swapTwoNumber = new SwapTwoNumber();
          //swapTwoNumber.Swap();
 
-         OddAndEven oddAndEven = new OddAndEven();
-            oddAndEven.Checking();
+        // OddAndEven oddAndEven = new OddAndEven();
+          //oddAndEven.Checking();
+
+            VowelAndConsonant vowelAndConsonant = new VowelAndConsonant();
+            vowelAndConsonant.Alphabet();
 
         }
     }
