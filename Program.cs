@@ -31,8 +31,11 @@ namespace FunctionalProblem
         // OddAndEven oddAndEven = new OddAndEven();
           //oddAndEven.Checking();
 
-            VowelAndConsonant vowelAndConsonant = new VowelAndConsonant();
-            vowelAndConsonant.Alphabet();
+           // VowelAndConsonant vowelAndConsonant = new VowelAndConsonant();
+           // vowelAndConsonant.Alphabet();
+
+            LargestNumber number = new LargestNumber();
+            number.Number();
 
         }
     }
