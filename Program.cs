@@ -13,10 +13,11 @@ namespace FunctionalProblem
         //LeapYear leapYear = new LeapYear();
         //leapYear.Leap();
 
-         PowerofTwo powerofTwo = new PowerofTwo();
-         powerofTwo.Power();
+        // PowerofTwo powerofTwo = new PowerofTwo();
+         //powerofTwo.Power();
 
-            
+         HarmonicNumber harmonicNumber = new HarmonicNumber();
+         harmonicNumber.Harmonic();
         }
     }
 }
